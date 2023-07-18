@@ -5,7 +5,14 @@ bootcamp_2023
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/bootcamp_2023/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/bootcamp_2023/branch/main)
 
 
-A sample package for 2023 MSF Bootcamp
+A sample package for 2023 MSF Bootcamp.
+
+This repository is currently under development.
+To do a development install, clone this repository and type
+```
+pip install -e .
+```
+in the repository directory.
 
 ### Copyright
 
